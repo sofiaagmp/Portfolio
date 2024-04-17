@@ -7,9 +7,8 @@ body {
 }
 
 .container {
-    max-width: 1200px;
-    margin-left: 100px;
-    margin-right: 100px;
+    margin-left: 150px;
+    margin-right: 150px;
     padding: 20px;
 }
 
@@ -22,7 +21,7 @@ body {
 .projects_a {
     display: flex;
     flex-wrap: wrap;
-    justify-content: center;
+    justify-content:space-around;
 }
 
 .project_a {
@@ -46,7 +45,7 @@ h1 {
 }
 
 p {
-    font-size: 18px;
+    font-size: 15px;
     margin-bottom: 20px;
     line-height: 1.6;
     color: #666;
@@ -71,10 +70,11 @@ p {
     height: auto;
     object-fit: cover;
     border-bottom: 2px solid #eee;
+    border-radius: 10px;
 }
 
 .project-content {
-    padding: 20px;
+    padding: 15px;
 }
 
 .project-title {
@@ -146,7 +146,6 @@ section {
   .social-links a:hover::after {
     top: 0;
   }
-
   
   .social-links a:hover .fab, .social-links a:hover .fa{
     color: #fff;
