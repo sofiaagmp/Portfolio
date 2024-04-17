@@ -13,4 +13,4 @@ In this mobile app, which is to be used by the employees of the gym, the user is
 ![Screenshot 2024-04-17 111912](https://github.com/sofiaagmp/Portfolio/assets/160232609/102de507-8626-4442-8c64-0e38e251708e)
 ![Screenshot 2024-04-17 111919](https://github.com/sofiaagmp/Portfolio/assets/160232609/4109749a-493d-40c4-a1a2-9f8057743448)
 
-[App documentation]: [Solution PGG_Mobile_0904/AppDoc PowerGymGirls](https://github.com/sofiaagmp/Portfolio/tree/main/Solution%20PGG_Mobile_0904/AppDoc%20PowerGymGirls)
+[App documentation]:https://github.com/sofiaagmp/Portfolio/tree/main/Solution%20PGG_Mobile_0904/AppDoc%20PowerGymGirls
