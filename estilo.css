@@ -13,6 +13,24 @@ body {
     padding: 20px;
 }
 
+.container_a {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.projects_a {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.project_a {
+    flex: 0 0 calc(33.33% - 5px); /* Adjust this value for spacing */
+    margin: 10px;
+    max-width: 300px; /* Optional: limit max width of projects */
+}
+
 header {
     background-color: #eee;
     padding: 20px;
@@ -47,7 +65,7 @@ p {
     overflow: hidden;
 }
 
-.project img {
+.project_a img {
     max-width: 100%;
     height: auto;
     object-fit: cover;
@@ -84,3 +102,54 @@ p {
 section {
     margin-bottom: 10px;
 }
+
+.social-links {
+    display: flex;
+  }
+  
+  .social-links a {
+    width: 80px;
+    height: 80px;
+    text-align: center;
+    text-decoration: none;
+    color: #000;
+    box-shadow: 0 0 20px 10px rgba(0, 0, 0, 0.05);
+    margin: 0 30px;
+    border-radius: 50%;
+    position: relative;
+    overflow: hidden;
+    transition: transform 0.5s;
+  }
+  
+  .social-links a .fab, .social-links a .fa{
+    font-size: 30px;
+    line-height: 80px;
+    position: relative;
+    z-index: 10;
+    transition: color 0.5s;
+  }
+  
+  .social-links a::after {
+    content: '';
+    width: 100%;
+    height: 100%;
+    top: -90px;
+    left: 0;
+    background: #000;
+    background: #FFDB58; 
+    position: absolute;
+    transition: 0.5s;
+  }
+  
+  .social-links a:hover::after {
+    top: 0;
+  }
+
+  
+  .social-links a:hover .fab, .social-links a:hover .fa{
+    color: #fff;
+  }
+  
+  .social-links a:hover {
+    transform: translateY(-10px);
+  }
