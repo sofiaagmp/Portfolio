@@ -24,9 +24,9 @@ Within Power BI, I have built a multiple page report in order to aid the gym to 
 
 [Power BI Report]
 
-[Mobile version]:https://github.com/sofiaagmp/Portfolio/blob/main/PGG_Canvas_App_Mobile.md
-[Tablet version]: https://github.com/sofiaagmp/Portfolio/blob/main/PGG_Canvas_App_Tablet.md
-[model-driven App]: https://github.com/sofiaagmp/Portfolio/blob/main/PGG_Model_Driven_App.md
-[Power BI Report]: 
+[Mobile version]:https://github.com/sofiaagmp/Portfolio/blob/main/Power_Gym_Girls_Canvas_App_Mobile/PGG_Canvas_App_Mobile.md
+[Tablet version]:https://github.com/sofiaagmp/Portfolio/blob/main/Power_Gym_Girls_Canvas_App_Tablet/PGG_Canvas_App_Tablet.md
+[model-driven App]:https://github.com/sofiaagmp/Portfolio/blob/main/Power_Gym_Girls_Model_Driven_App/PGG_Model_Driven_App.md
+[Power BI Report]:https://github.com/sofiaagmp/Portfolio/blob/main/Power_Gym_Girls_Power_BI_Report/PGG_Power_BI_Report.md
 
 
