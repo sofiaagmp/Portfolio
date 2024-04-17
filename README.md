@@ -4,9 +4,11 @@ I am currently on a learning journey into the low code development world, specif
 Within Power Apps, I have developed two canvas apps, a mobile and a tablet version, for a group project pertaining to a gym company entitled "Power Gym Girls". 
 
 Mobile version:
+
 ![image](https://github.com/sofiaagmp/Portfolio/assets/160232609/db406ba1-2fd7-4ba7-85cb-5ba5bbe0bdf5)
 
 Tablet version:
+
 ![image](https://github.com/sofiaagmp/Portfolio/assets/160232609/f7746498-9775-4059-baaf-91211ca7e2ab)
 
 You can view more details on that [here].
@@ -17,7 +19,14 @@ I have also created a model-driven app for the gym to register people interested
 
 [Model-driven  App]
 
+Within Power BI, I have built a multiple page report in order to aid the gym to better understand their current standing-point, including analysis on demographics, sports, sign-ups and withdrawls, as well as other crucial information to the business. 
+
+![image](https://github.com/sofiaagmp/Portfolio/assets/160232609/180965e6-a6a3-4669-9f3f-35c640984e1c)
+
+[Power BI Report]
+
 [here]:https://github.com/sofiaagmp/Portfolio/blob/main/PGG_Canvas_App_Mobile.md
 [model-driven App]: https://github.com/sofiaagmp/Portfolio/blob/main/PGG_Model_Driven_App.md
+[Power BI Report]: 
 
 
