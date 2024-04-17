@@ -2,7 +2,7 @@
 
 In this mobile app, which is to be used by the employees of the gym, the user is able to log onto their account, and procede with the gym maintenance log required for the day. It includes screens with the gym rooms available, through there the user can access each component/equipment that is available inside each room and check their state. The user checks the state of the equipment by taking a picture when required by management and adding other useless information through text. All the information is saved in Dataverse, which is then acessed by the tablet version of this app. In addition, if the user forgets their password, they can generate a new one.
 
-[App documention]
+[App documentation]
 
 ![Screenshot 2024-04-17 101932](https://github.com/sofiaagmp/Portfolio/assets/160232609/9fae4d40-e09b-43da-b3c7-baca49de9afa)
 ![Screenshot 2024-04-17 111830](https://github.com/sofiaagmp/Portfolio/assets/160232609/3a81a73c-166c-42b4-826d-7042208eae33)
