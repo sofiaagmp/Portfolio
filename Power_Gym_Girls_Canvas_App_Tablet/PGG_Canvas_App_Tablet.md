@@ -11,4 +11,4 @@ This tablet app is to be used alongside it's mobile version. It includes some of
 ![Screenshot 2024-04-17 154057](https://github.com/sofiaagmp/Portfolio/assets/160232609/95f94112-fe1e-4ff4-884d-e3975187c7d7)
 ![Screenshot 2024-04-17 154112](https://github.com/sofiaagmp/Portfolio/assets/160232609/019438eb-debd-4816-9093-f27fa07c6e81)
 
-[App documentation]:
+[App documentation]:https://github.com/sofiaagmp/Portfolio/tree/main/Power_Gym_Girls_Canvas_App_Tablet/Solution%20PGG_Tablet_Version/AppDoc%20PowerGymGirls_Tablet
