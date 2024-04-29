@@ -29,4 +29,9 @@ Within Power BI, I have built a multiple page report in order to aid the gym to 
 [model-driven App]:https://github.com/sofiaagmp/Portfolio/blob/main/Power_Gym_Girls_Model_Driven_App/PGG_Model_Driven_App.md
 [Power BI Report]:https://github.com/sofiaagmp/Portfolio/blob/main/Power_Gym_Girls_Power_BI_Report/PGG_Power_BI_Report.md
 
+[Chatbot Mojo Jojo]
+
+![Screenshot 2024-04-29 105218](https://github.com/sofiaagmp/Portfolio/assets/160232609/29b110fe-fe39-4a08-998c-24a96fc27c26)
+
+
 
