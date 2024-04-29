@@ -30,11 +30,18 @@ Within Copilot, we created a chatbot to aid users in obtaining information about
 
 [Chatbot Mojo Jojo]
 
+Within Power Pages, we built a simple, but straightforward website in which the user can browse through all the available fitness classes, some members' inspiring stories and also interact with our chatbot, Mojo Jojo. 
+
+![326403743-47737311-782a-4ff5-839e-600d24bcc3d2](https://github.com/sofiaagmp/Portfolio/assets/160232609/ba238f26-124b-43b2-8d97-a174ae343b4e)
+
+[Power Pages Website]
+
 [Mobile version]:https://github.com/sofiaagmp/Portfolio/blob/main/Power_Gym_Girls_Canvas_App_Mobile/PGG_Canvas_App_Mobile.md
 [Tablet version]:https://github.com/sofiaagmp/Portfolio/blob/main/Power_Gym_Girls_Canvas_App_Tablet/PGG_Canvas_App_Tablet.md
 [model-driven App]:https://github.com/sofiaagmp/Portfolio/blob/main/Power_Gym_Girls_Model_Driven_App/PGG_Model_Driven_App.md
 [Power BI Report]:https://github.com/sofiaagmp/Portfolio/blob/main/Power_Gym_Girls_Power_BI_Report/PGG_Power_BI_Report.md
 [Chatbot Mojo Jojo]:https://github.com/sofiaagmp/Portfolio/blob/main/PGG_Chatbot_MojoJojo/PGG_Chatbot.md
+[Power Pages Website]:https://github.com/sofiaagmp/Portfolio/blob/main/PGG_Website_PowerPages/PGG_Website.md
 
 
 
